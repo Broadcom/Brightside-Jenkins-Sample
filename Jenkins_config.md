@@ -1,0 +1,1 @@
+This file will be updated to include Jenkins configuration information to set up Jenkins to run this pipeline in a CA Brightside Docker container.
